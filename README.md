@@ -11,4 +11,4 @@ Importe o arquivo JS do CDN
 </script>
 ```
 
-Coloque a div ```<div id="main-pesquisa-fipe"></div>``` a parte do seu site onde deseja que ela esteja.
+Coloque a div ```<div id="main-pesquisa-fipe"></div>``` no lugar do seu site onde deseja que ela esteja.
