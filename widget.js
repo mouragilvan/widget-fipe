@@ -20,7 +20,7 @@
                                     .fipe_select_csrf {
                                         border: 1px solid gray;
                                         background: white;
-                                        padding: 7px;
+                                        font-size: smaller;
                                         margin-bottom: 3px;
                                     }
 
