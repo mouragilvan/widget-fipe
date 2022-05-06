@@ -22,6 +22,7 @@
                                         background: white;
                                         font-size: smaller;
                                         margin-bottom: 3px;
+                                        width: 100%;
                                     }
 
                                     .btn_fipe_csrf {
